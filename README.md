@@ -2,12 +2,13 @@
 Using Hammer js and CSS3 animation make a touch slider for both mobile and browser
 Link: http://mahsin.me/Touch-Slider-MediaBrix-HammerJs/
 
-Step 1: 
+Step 1: <br>
 ![alt text](http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step1.jpg)
+<br>
+Step 2: <br>
+![alt text](http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step2.jpg)
+<br>
 
-[[http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step1.jpg]]
-
-<p align="center">
-  <img src="http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step1.jpg" width="350"/>
-  <img src="http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step1.jpg" width="350"/>
-</p>
+Step 3: <br>
+![alt text](http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step3.jpg)
+<br>
