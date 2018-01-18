@@ -4,3 +4,5 @@ Link: http://mahsin.me/Touch-Slider-MediaBrix-HammerJs/
 
 Step 1: 
 ![alt text](http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/step1.jpg)
+
+[[http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/step1.jpg]]
