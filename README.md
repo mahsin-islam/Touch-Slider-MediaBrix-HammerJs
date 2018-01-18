@@ -10,5 +10,9 @@ Step 2: <br>
 <br>
 
 Step 3: <br>
+![alt text](http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step_3.png)
+<br>
+
+Step 4: <br>
 ![alt text](http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step3.jpg)
 <br>
