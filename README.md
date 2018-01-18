@@ -16,3 +16,7 @@ Step 3: <br>
 Step 4: <br>
 ![alt text](http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/step3.jpg)
 <br>
+
+#### Licensing
+Touch Slider MediaBrix HammerJs is licensed under the [GNU v3 Public License](https://github.com/mahsin-islam/Touch-Slider-MediaBrix-HammerJs/edit/master/LICENSE).
+In addition to the terms set by the GNU v3 Public License, I ask that if you use any code from this repository that you send us a message to let me know.
